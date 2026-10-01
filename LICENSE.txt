@@ -1,0 +1,2 @@
+Welcome to the Symbolic Calculator!
+Type 'Quit' to exit, 'Clear' to clear variables, or 'Vars' to see all variables.

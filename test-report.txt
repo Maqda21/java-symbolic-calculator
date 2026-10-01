@@ -1,0 +1,45 @@
+Test passed: factorial(5.0) evaluated correctly.
+Testing function expressions:
+Test passed: max(5.0, 7.0) evaluated correctly.
+max(5, 7) evaluated to: 7.0
+Test passed: gcd(18.0, 30.0) evaluated correctly.
+gcd(18, 30) evaluated to: 6.0
+Test passed: gcd(8.0, 24.0) evaluated correctly.
+gcd(8, 24) evaluated to: 8.0
+Test passed: if 5.0 > 3.0 10.0 else 2.0 evaluated correctly.
+if 5 > 3 { 10 } else { 2 } evaluated to: 10.0
+Test passed: if 3.0 == 5.0 10.0 else 2.0 evaluated correctly.
+Test passed: 42.0 evaluated correctly.
+Test passed: (5.0 + 37.0) evaluated correctly.
+Testing arithmetic expressions:
+Testing constant expression:
+Test passed: 42.0 evaluated correctly.
+Testing addition expression:
+Test passed: (5.0 + 37.0) evaluated correctly.
+Testing multiplication expression:
+Test passed: 6.0 * 7.0 evaluated correctly.
+Testing complex arithmetic expression:
+Test passed: (2.0 * 3.0 + (10.0 - 4.0)) evaluated correctly.
+Testing division expression:
+Test passed: (42.0 / 7.0) evaluated correctly.
+Testing subtraction expression:
+Test passed: (10.0 - 4.0) evaluated correctly.
+Testing sine, cosine, and logarithmic expressions:
+Testing cosine of constant expression (cos(0)):
+Test passed: cos(0.0) evaluated correctly.
+Testing cosine of constant expression (cos(π/2)):
+Test passed: cos(1.5707963267948966) evaluated correctly.
+Testing cosine of a variable (cos(x)):
+Test passed: cos(x) evaluated correctly.
+Testing sine of constant expression (sin(0)):
+Test passed: sin(0.0) evaluated correctly.
+Testing sine of constant expression (sin(π/2)):
+Test passed: sin(1.5707963267948966) evaluated correctly.
+Testing sine of a variable (sin(x)):
+Test passed: sin(z) evaluated correctly.
+Testing logarithm of constant expression (log(1)):
+Test passed: log(1.0) evaluated correctly.
+Testing logarithm of constant expression (log(10)):
+Test passed: log(10.0) evaluated correctly.
+Testing logarithm of a variable (log(y)):
+Test passed: log(y) evaluated correctly.
